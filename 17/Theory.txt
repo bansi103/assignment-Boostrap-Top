@@ -1,0 +1,90 @@
+que 1 What is Bootstrap, and why is it useful for website design?
+
+ans : 
+ Bootstrap was originally developed by Twitter and is now maintained as an open-source
+  project. It provides a predefined structure and styles for web elements like buttons, 
+  forms, navigation bars, grids, and more.
+
+ 1 Responsive Design
+
+Uses a 12-column grid system and flexible layouts that automatically adjust to screen
+ sizes (desktop, tablet, mobile).
+
+ 2 Pre-Built Components
+
+Comes with ready-to-use UI elements like buttons, modals, dropdowns, carousels, navbars, etc.
+
+ 3 Consistent Styling
+
+Provides a consistent look across different browsers and devices.
+
+ 4 Saves Time
+
+Developers can build and prototype websites much faster without writing CSS and JavaScript 
+from scratch.
+
+ 5 Customizable
+
+You can override Bootstrap’s default styles or use its built-in customization options to 
+match your branding.
+
+ 6 Cross-Browser Compatibility
+
+Tested to work across all major browsers.
+
+ 7 Strong Community & Documentation
+
+Great support, detailed docs, and lots of tutorials and templates available online.
+
+
+...........................................................................................
+
+que 2 Explain the Bootstrap grid system and how it helps create responsive layouts.
+
+ans : 
+
+The Bootstrap grid system is a powerful layout tool that helps create responsive and
+ flexible web page layouts. It uses a 12-column grid that allows you to arrange content 
+ in rows and columns that automatically adjust based on the screen size.
+
+ 1 Mobile-First Design: Automatically adjusts for phones, tablets, and desktops.
+
+ 2 No Manual Media Queries: You use class names instead of writing CSS for responsiveness.
+
+ 3 Flexible Layouts: Easily mix and match column sizes.
+
+ 4 Clean Code: Reduces the need for complex CSS.
+
+ ...........................................................................................
+
+ que 3 List and explain at least three Bootstrap components (e.g., navbar, cards, buttons).
+
+ ans :
+
+ 1. Navbar (Navigation Bar)
+      -> What It Is:
+A responsive header/navigation bar that allows users to navigate between different pages or 
+sections of a site.
+
+✅ Key Features:
+ -> Collapsible on smaller screens
+ -> Supports branding, links, dropdowns, search forms, etc.
+
+ 2. Cards
+    -> What It Is:
+Cards are flexible containers for displaying content such as images, text, and buttons in a structured format.
+
+✅ Key Features:
+ -> Built-in spacing, border, and shadow
+ -> Supports images, lists, headers, and footers
+
+ 3. Buttons
+     -> What It Is:
+Bootstrap provides styled buttons with various colors, sizes, and states.
+
+✅ Key Features:
+ -> Easy to apply predefined styles.
+
+ -> Supports button groups and toolbars.
+
+ -> Can be used with links or forms.

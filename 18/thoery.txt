@@ -1,0 +1,88 @@
+que 1 Explain how modals and carousels work in Bootstrap.
+
+ans :
+1 modal
+
+-> What is a Modal?
+A modal is a popup window that appears over the current page content, often used for 
+login forms, alerts, confirmations, or additional info.
+
+-> How It Works:
+-- You define the modal HTML structure.
+-- A button or link (with specific data attributes) triggers it.
+
+ 2. Bootstrap Carousel
+
+-> What is a Carousel?
+A carousel is a slideshow for cycling through elements—commonly used for images or testimonials.
+
+-> How It Works:
+-- Uses the carousel class and data-bs-* attributes.
+-- Includes navigation indicators and controls.
+
+
+
+------------------------------------------------------------------------------------------
+
+que 2 Describe the purpose of utility classes in Bootstrap and give examples.
+
+ans :
+
+1. Spacing Utilities
+
+-> (Control margin m- and padding p-)
+-> mt-4: margin-top
+-> mb-3: margin-bottom
+-> p-2: padding on all sides
+
+2. Text Utilities
+
+-> (For alignment, color, weight, transform)
+-> text-center: centers text
+-> text-danger: red text
+-> fw-bold: bold font
+-> text-uppercase: all uppercase letters
+
+3. Display Utilities
+
+-> (Show/hide elements or set layout)
+-> d-none: hides element
+-> d-md-block: shows element on md (≥768px) and 
+
+4. Sizing Utilities
+
+-> w-50: 50% width
+-> h-auto: automatic height
+
+
+| Utility Type | Example Class        | Purpose                 |
+| ------------ | -------------------- | ----------------------- |
+| Spacing      | `mt-3`, `p-4`        | Margin & padding        |
+| Text         | `text-center`        | Text alignment          |
+| Color        | `text-primary`       | Text color              |
+| Background   | `bg-success`         | Background color        |
+| Display      | `d-flex`, `d-none`   | Show/hide, flexbox      |
+| Border       | `border`, `border-0` | Add/remove border       |
+| Sizing       | `w-25`, `h-100`      | Width & height settings |
+
+
+---------------------------------------------------------------------------------
+
+que 3 Discuss the importance of customizing Bootstrap variables for unique styling.
+
+ans :
+
+-> Importance of Customizing Bootstrap Variables for Unique Styling.
+
+Bootstrap comes with a set of default design variables (like colors, fonts, spacing,
+breakpoints, etc.), but customizing them is essential if you want your website to have
+a unique, branded, and professional look — rather than looking like every other 
+Bootstrap-based site.
+
+| Benefit               | Description                                  |
+| --------------------- | -------------------------------------------- |
+|  Branding           | Matches your visual identity                 |
+|  Reusability        | Changes apply everywhere (DRY principle)     |
+|  Clean Code         | Less repeated custom CSS                     |
+|  Flexible Layouts   | Tailored breakpoints and container sizes     |
+|  Easier Maintenance | Change one variable, update the entire theme |
